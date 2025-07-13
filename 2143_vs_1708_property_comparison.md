@@ -7,17 +7,17 @@
 | **📍 Address** | 2143 W 19th St #3, Chicago, IL 60608 | 1708 W Cermak Rd Unit 2E, Chicago, IL 60608 | 1918 W Cermak Rd Unit 4, Chicago, IL 60608 |
 | **🏠 Size** | 3BR/2BA, 1,300 sq ft | 2BR/2BA, 1,200 sq ft | 2BR/2BA, 1,100 sq ft |
 | **📅 Year Built** | 2018 | 2019 | 2020 |
-| **💰 Price** | $379,999 ask / $350k-360k target | ~$375,702 estimated value | $365,000 ask |
-| **📏 Price per sq ft** | $277 (at $360k negotiated) | $313 (at estimated value) | $332 (at ask price) |
+| **💰 Price** | $379,999 ask / $350k-360k target | ~$375,702 estimated value | $319,000 ask |
+| **📏 Price per sq ft** | $277 (at $360k negotiated) | $313 (at estimated value) | $290 (at ask price) |
 
 ## Monthly Costs
 
 | Cost Category | 2143 W 19th St #3 | 1708 W Cermak Rd Unit 2E | 1918 W Cermak Rd Unit 4 |
 |---------------|-------------------|---------------------------|---------------------------|
 | **🏢 HOA Dues** | $150/month | $150/month | $200/month |
-| **🏛️ Property Taxes** | $581/month | Not specified | ~$560/month (est.) |
-| **🛡️ Insurance** | $139/month | Not specified | ~$130/month (est.) |
-| **💳 Total Monthly (at ask price)** | $2,783/month | TBD | ~$2,870/month |
+| **🏛️ Property Taxes** | $581/month | Not specified | ~$490/month (est.) |
+| **🛡️ Insurance** | $139/month | Not specified | ~$120/month (est.) |
+| **💳 Total Monthly (at ask price)** | $2,783/month | TBD | ~$2,540/month |
 
 ## Features & Amenities
 
@@ -48,10 +48,10 @@
 - **5-year equity build**: $141k-203k (depending on appreciation)
 
 ### Cash Flow Analysis (1918 W Cermak Unit 4)
-- **At $365k purchase**: -$770/month negative cash flow
+- **At $319k purchase**: -$440/month negative cash flow
 - **Rental income**: $2,100/month (current market rate)
-- **Total expenses**: $2,870/month
-- **Higher carrying costs due to newer construction and amenities**
+- **Total expenses**: $2,540/month
+- **Much improved at lower price point**
 
 ### Tax Benefits (2143 W 19th St #3)
 - **Annual tax savings**: ~$2,600
@@ -83,8 +83,8 @@
 
 ### 1918 W Cermak Building Analysis
 - **Newest construction** in comparison (2020)
-- **Premium pricing**: $332/sq ft at ask price
-- **Building amenities** justify higher HOA and price point
+- **Competitive pricing**: $290/sq ft at ask price
+- **Building amenities** justify higher HOA
 - **Limited sales data** due to newer construction
 
 ## Pros & Cons
@@ -127,10 +127,9 @@
 - Heat/water included in HOA
 
 **❌ Cons:**
-- Highest price per sq ft ($332)
 - Smallest unit (1,100 sq ft)
-- Highest negative cash flow (-$770/month)
-- Highest monthly carrying costs
+- Moderate negative cash flow (-$440/month)
+- Higher HOA dues ($200/month)
 - Limited rental income potential due to size
 
 ## Recommendation
@@ -138,16 +137,16 @@
 **🏆 Winner: 2143 W 19th St #3**
 
 **Reasoning:**
-1. **Best Investment Metrics**: Lowest price per sq ft, highest rental income potential
+1. **Best Investment Metrics**: Higher rental income potential, best size/price ratio
 2. **Size Advantage**: 3BR commands higher rent and attracts more tenant types
-3. **Best Cash Flow**: Smallest negative cash flow (-$283 vs -$770)
+3. **Best Cash Flow**: Smallest negative cash flow (-$283 vs -$440)
 4. **House Hacking Potential**: Extra bedroom perfect for roommate strategy
 5. **Negotiation Opportunity**: Motivated seller allows for $20k-30k discount
 
 **Property Rankings:**
 1. **2143 W 19th St #3** - Best overall value and investment potential
-2. **1708 W Cermak Unit 2E** - Good amenities, moderate investment potential
-3. **1918 W Cermak Unit 4** - Newest but poor investment metrics
+2. **1918 W Cermak Unit 4** - Improved value at $319k, newest construction
+3. **1708 W Cermak Unit 2E** - Good amenities but unclear pricing
 
 **Best Strategy for 2143 W 19th St #3:**
 - Negotiate to $350k-355k
